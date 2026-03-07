@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ac168040-32d6-4ceb-8c99-3745d95bc760" /><img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f2bded3a-ad25-4202-9e21-819c59118402" /># GitHub Access Report API
+# GitHub Access Report API
 
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-green?logo=springboot)](https://spring.io/projects/spring-boot)
