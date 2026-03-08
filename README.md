@@ -37,7 +37,7 @@ This project can be useful for teams or organizations to **track repository acce
 - Maven 3.8+  
 - Git  
 - Internet connection (for GitHub API requests)  
-- Optional: GitHub Personal Access Token for private repos  
+-  GitHub Personal Access Token for private repos  
 
 ---
 
