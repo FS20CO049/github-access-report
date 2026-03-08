@@ -56,25 +56,25 @@ src/main/java/com/example/githubreport/
 │   └── User.java               # User model
 └── GithubAccessReportApplication.java  # Main Spring Boot application
 ---
-##. Architecture diagram  
-images/architecture-diagram.png
+## Architecture Diagram
+![Architecture Diagram](images/architecture-diagram.png)
+
+---
+
 ## API Endpoint
 
 **GET** `/api/access-report`
 
-## How to Call the API Endpoint
+### How to Call the API Endpoint
 
-**Endpoint:** `/api/access-report`  
-**Method:** GET  
-**Content-Type:** application/json  
+- **Endpoint:** `/api/access-report`  
+- **Method:** GET  
+- **Content-Type:** application/json  
 
 **Example using curl:**
-
 ```bash
 curl -X GET http://localhost:8080/api/access-report
-
-**Example Response:**
-
+Example Response:
 {
   "repository-name": [
     "user1",
