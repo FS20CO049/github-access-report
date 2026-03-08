@@ -43,16 +43,18 @@ This project can be useful for teams or organizations to **track repository acce
 
 ## Project Structure
 src/main/java/com/example/githubreport/
+```text
+src/main/java/com/example/githubreport/
 ├── client/
-│ └── GithubClient.java # Handles communication with GitHub API
+│   └── GithubClient.java       # Handles communication with GitHub API
 ├── controller/
-│ └── AccessReportController.java # REST endpoints
+│   └── AccessReportController.java  # REST endpoints
 ├── service/
-│ └── GithubService.java # Business logic to generate reports
+│   └── GithubService.java      # Business logic to generate reports
 ├── model/
-│ ├── Repo.java # Repository model
-│ └── User.java # User model
-└── GithubAccessReportApplication.java # Main Spring Boot application
+│   ├── Repo.java               # Repository model
+│   └── User.java               # User model
+└── GithubAccessReportApplication.java  # Main Spring Boot application
 ---
 ##. Architecture diagram  
 images/architecture-diagram.png
